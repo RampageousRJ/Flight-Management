@@ -15,7 +15,7 @@ Simple python application developed for users to access information related to f
 
 #### Python Interpreter
 
-```py
+```http
   https://www.python.org/downloads/
 ```
 
@@ -31,7 +31,7 @@ Simple python application developed for users to access information related to f
 
 #### MySQL 8.0 Command Line Client
 
-```py
+```http
   https://dev.mysql.com/downloads/mysql/
 ```
 
